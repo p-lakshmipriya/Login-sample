@@ -9,9 +9,9 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: rgb(21, 8, 59);
   margin: 160px;
   border-radius: 25px;
+  background-image: url(images/bg-img.png);
 }
 label {
   color: #fff;
