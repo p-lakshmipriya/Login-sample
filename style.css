@@ -67,16 +67,16 @@ h1 {
   }
 }
 /* media query */
-@media (max-width: 900px) {
+/* @media (max-width: 601px) {
   .container {
     width: 60%;
     height: 60vh;
   }
-}
+} */
 
-@media (max-width: 600px) {
+@media (max-width: 800px) {
   .container {
-    margin: 100px;
+    margin: 60px;
     width: 70%;
     height: 60vh;
   }
